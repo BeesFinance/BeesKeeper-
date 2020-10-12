@@ -2,7 +2,7 @@
 BHNY Chef
 
 
-<script src="https://gist.github.com/BeesFinance/6af75dad79b9cebf56dce107253ab5dd.js"></script>
+
 
 /**
  *Submitted for verification at Etherscan.io on 2020-10-09
